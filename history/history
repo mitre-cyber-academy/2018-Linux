@@ -1,0 +1,45 @@
+vim myscript.sh
+vi myscript.sh
+sudo apt install vim-tiny
+sudo apt install update
+sudo apt update
+sudo apt install vim-tiny
+ls
+vi myscript.sh
+./myscript.sh
+chmod +x myscript.sh
+vi myscript.sh
+./myscript.sh
+vi myscript.sh
+./myscript.sh
+vi myscript.sh
+./myscript.sh
+vi myscript.sh
+./myscript.sh
+vi myscript.sh
+./myscript.sh
+ls
+cat myscript.sh
+sh ./myscript.sh
+vi myscript.sh
+./myscript.sh
+vi myscript.sh
+./myscript.sh
+vi myscript.sh
+./myscript.sh
+vi myscript.sh
+./myscript.sh
+bash -x ./myscript.sh
+rm myscript.sh
+sudo ./myscript.sh
+vi myscript.sh
+sufo ./myscript.sh
+tomatosoup
+sudo ./myscript.sh
+vi mycrypt.sh
+sudo ./myscript.sh
+vi mycrypt.sh
+sudo ./myscript.sh
+vi mycrypt.sh
+./myscript.sh
+rm myscript.sh
