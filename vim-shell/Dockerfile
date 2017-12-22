@@ -1,4 +1,4 @@
-FROM ssh-base-image
+FROM sshd
 
 ARG FLAG
 
